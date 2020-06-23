@@ -8,7 +8,7 @@ npm i 9ball --save
 
 ## Usage
 ```
-const 9ball = require('9ball');
-console.log(9ball(`Will I be really rich one day? ${9ball}`))
+const ball = require('9ball');
+console.log(ball(`Will I be really rich one day? ${9ball}`))
 // Will I be really rich one day? As I see it, yes.
 ```
