@@ -1,7 +1,7 @@
 {
-  "name": "8ball-js",
+  "name": "9ball",
   "version": "1.0.0",
-  "description": "8Ball responses ",
+  "description": "8Ball responses",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
