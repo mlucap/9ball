@@ -7,8 +7,8 @@ Does exactly what an 8ball does but the name was taken lol
 npm i 9ball --save
 
 ## Usage
-```
-const ball = require('9ball');
-console.log(ball(`Will I be really rich one day? ${ball}`))
+```js
+const nine = require('9ball')(); // Remember to include the ()
+console.log(`Will I be really rich one day? ${nine}`);
 // Will I be really rich one day? As I see it, yes.
 ```
