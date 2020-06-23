@@ -4,7 +4,9 @@
 Does exactly what an 8ball does but the name was taken lol
 
 ## Installation
+```
 npm i 9ball --save
+```
 
 ## Usage
 ```js
